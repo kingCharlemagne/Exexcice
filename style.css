@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 52px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#first-party {
+    background-color: #F7F7F7;
+}
+
+.label {
+    padding: 0;
+}
+
+figure {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 0;
+}
+
+figure:hover {
+    border: #0000FF solid 2px;
+}
+
+.figcapB2 {
+    background-color: #ffff;
+}
+
+figcaption {
+    font-size: 18px;
+
+}
+
+#compt {
+    color: blue;
+}
+
+
+
+
